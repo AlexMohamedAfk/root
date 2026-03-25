@@ -6,13 +6,13 @@
   "release_notes": "تحديث جديد",
   "status_message": "Server Status: Online|v3.1.2 Update",
   "scripts": {
-    "1": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "2m ago" },
-    "2": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "5m ago" },
-    "3": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "10m ago" },
-    "4": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "15m ago" },
-    "5": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "1h ago" },
-    "6": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "20m ago" },
-    "7": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "2h ago" },
-    "8": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "30m ago" }
+    "1": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "2": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "3": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "4": { "is_safe": false, "status_label": "Unsafe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "5": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "6": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "7": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "3/25/2026" },
+    "8": { "is_safe": true, "status_label": "Safe", "last_update": "Updated", "update_time": "3/25/2026" }
   }
 }
