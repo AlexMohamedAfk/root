@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "PUBG Global",
+    "packageName": "com.tencent.ig",
+    "version": "3.1.0",
+    "apkUrl": "https://github.com/AlexMohamedAfk/root/releases/download/v3.1.0/GL.apk",
+    "iconUrl": "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/GL.png",
+    "isSafe": true,
+    "statusLabel": "Safe",
+    "lastUpdate": "Updated"
+  },
+  {
+    "id": "2",
+    "name": "PUBG Korea",
+    "packageName": "com.pubg.krmobile",
+    "version": "3.1.0",
+    "apkUrl": "https://github.com/AlexMohamedAfk/root/releases/download/v3.1.0/KR.apk",
+    "iconUrl": "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/KR.png",
+    "isSafe": true,
+    "statusLabel": "Safe",
+    "lastUpdate": "Updated"
+  },
+  {
+    "id": "3",
+    "name": "PUBG Taiwan",
+    "packageName": "com.rekoo.pubgm",
+    "version": "3.1.0",
+    "apkUrl": "https://github.com/AlexMohamedAfk/root/releases/download/v3.1.0/TW.apk",
+    "iconUrl": "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/TW.png",
+    "isSafe": false,
+    "statusLabel": "Risk",
+    "lastUpdate": "Updated"
+  },
+  {
+    "id": "4",
+    "name": "PUBG Vietnam",
+    "packageName": "com.vng.pubgmobile",
+    "version": "3.1.0",
+    "apkUrl": "https://github.com/AlexMohamedAfk/root/releases/download/v3.1.0/VN.apk",
+    "iconUrl": "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/VN.png",
+    "isSafe": true,
+    "statusLabel": "Safe",
+    "lastUpdate": "Updated"
+  }
+]
