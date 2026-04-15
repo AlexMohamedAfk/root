@@ -1,6 +1,6 @@
 {
   "latest_version": "2.1",
-  "latest_version_code": 2,
+  "latest_version_code": 3,
   "download_url": "https://github.com/AlexMohamedAfk/Zobr/releases/download/SpaceX/app-debug.apk",  "force_update": true,
   "release_notes": "Fix Store Bug & Fix All Bugs"
 }
