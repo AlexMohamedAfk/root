@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.2",
-  "latest_version_code": 4,
+  "latest_version": "3.0",
+  "latest_version_code": 3,
   "download_url": "https://github.com/AlexMohamedAfk/Zobr/releases/download/SpaceX/app-debug.apk",  "force_update": true,
-  "release_notes": "Some Small Fixes"
+  "release_notes": "Imbrove Inejection"
 }
