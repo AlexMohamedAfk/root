@@ -1,6 +1,27 @@
 {
-  "version": "1.7.0",
-  "download_url": "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
-  "enabled": true,
-  "message": "Available"
+  "version": "2.1",
+  "libraries": [
+    {
+      "file": "libSpaceX.so",
+      "mirrors": [
+        "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libSpaceX.so",
+        "https://cdn.jsdelivr.net/gh/AlexMohamedAfk/root/main/libSpaceX.so",
+        "https://raw.fastgit.org/AlexMohamedAfk/root/main/libSpaceX.so",
+        "https://ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libSpaceX.so",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libSpaceX.so",
+        "https://raw.gitmirror.com/AlexMohamedAfk/root/main/libSpaceX.so"
+      ]
+    },
+    {
+      "file": "libhook64.so",
+      "mirrors": [
+        "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
+        "https://cdn.jsdelivr.net/gh/AlexMohamedAfk/root/main/libhook64.so",
+        "https://raw.fastgit.org/AlexMohamedAfk/root/main/libhook64.so",
+        "https://ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
+        "https://raw.gitmirror.com/AlexMohamedAfk/root/main/libhook64.so"
+      ]
+    }
+  ]
 }
