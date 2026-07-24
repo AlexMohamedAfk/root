@@ -11,17 +11,6 @@
         "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libSpaceX.so",
         "https://raw.gitmirror.com/AlexMohamedAfk/root/main/libSpaceX.so"
       ]
-    },
-    {
-      "file": "libhook64.so",
-      "mirrors": [
-        "https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
-        "https://cdn.jsdelivr.net/gh/AlexMohamedAfk/root/main/libhook64.so",
-        "https://raw.fastgit.org/AlexMohamedAfk/root/main/libhook64.so",
-        "https://ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AlexMohamedAfk/root/main/libhook64.so",
-        "https://raw.gitmirror.com/AlexMohamedAfk/root/main/libhook64.so"
-      ]
     }
   ]
 }
